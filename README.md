@@ -1,2 +1,4 @@
-# reserves_panner
-A planner to assist with the Sectional Titles Schemes Management Regulations
+# Management Budget
+A spreadsheet to help with the Sectional Titles Schemes Management Regulations.
+
+
