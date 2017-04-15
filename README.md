@@ -7,7 +7,7 @@ The _Sectional Titles Schemes Management Regulations_ (STSMR) require that a sec
 
 The _ManagementBudget.ods_ spreadsheet is intended to help a Body Corporate (BC):
 * Prepare a ten year plan
-* Ensure that the amount in the Reserve Fund is healthy
+* Ensure that the amount in the Reserve Fund is healthy over the next ten years
 * Comply with the requirements around the mimimum amount to be contributed on an annual basis to the Reserve Fund.
 
 Before preparing a "Management Budget", a BC must prepare an "Administrative Budget." The Administrative Budget details the expected day-to-day running expenses of the scheme for the next financial year. In particular, the Administrative Budget needs to specify the expected costs for Repairs and Maintenance for the following year. The amount that must be contributed in a particular year to the Reserve Fund is a function of
@@ -15,8 +15,8 @@ Before preparing a "Management Budget", a BC must prepare an "Administrative Bud
 * The amount to be spent on Repairs and Maintenance.
 
 Before trying to use this spreadsheet, you must know:
-* The total amount budgeted by the BC for the previous financial year (i.e. all amounts spent plus amounts put into a Reserve Fund)
-* The total amount that is anticipated to be spent on administrative items for the next financial year
+* The total budget of the BC for the previous financial year (i.e. all amounts spent plus amounts put into a Reserve Fund)
+* The administrative budget for the current financial year
 * The amount (from the administrative budget) that will be spent on regular Repairs and Maintenance work (i.e. amounts outside of the long term/ten year plan)
 * The amount in the Reserve Fund at the start of the financial year.
 
