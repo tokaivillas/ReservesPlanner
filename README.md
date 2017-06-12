@@ -1,7 +1,7 @@
 # Reserve Fund Budget
-An OpenOffice spreadsheet to help with the Sectional Titles Schemes Management Regulations.
+An OpenOffice spreadsheet to help with the Sectional Titles Schemes Management Act.
 
-The _Sectional Titles Schemes Management Regulations_ (STSMR) require that a sectional title scheme:
+The _Sectional Titles Schemes Management Act Regulations_ (STSMAR) require that a sectional title scheme:
 * Prepare a ten year maintenance plan
 * Maintain a Reserve Fund with sufficient reserves to fund long term maintenance.
 
